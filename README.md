@@ -18,7 +18,7 @@
 
 3. You need an GOOGLE_API_KEY to use the gemini-pro models. Visit [Google AI Studio](https://aistudio.google.com/app/apikey), create and copy your api key.
 
-4. Set up your environment variables for email notifications by creating a `.env` file in the project root with the following content:
+4. Set up your GOOGLE_API_KEY environment variable by creating a `.env` file in the project root with the following content:
 
     ```env
     GOOGLE_API_KEY="Your key"
