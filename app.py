@@ -2,7 +2,6 @@ import os
 import random
 import time
 
-import google.ai.generativelanguage as glm
 import google.generativeai as genai
 from google.generativeai.types import HarmBlockThreshold, HarmCategory
 
